@@ -1028,4 +1028,7 @@
   </project>
 
   <include name="snippets/lineage.xml" />
+  <project path="device/GM/GM9PRO_sprout" name="lineage4legacy/device_GM_GM9PRO_sprout-test" revision="refs/heads/lineage-23.2" remote="github" />
+  <project path="kernel/GM/GM9PRO_sprout" name="lineage4legacy/kernel_GM9PRO_sprout-15" revision="refs/heads/lineage-23.2" remote="github" />
+  <project path="vendor/GM/GM9PRO_sprout" name="lineage4legacy/vendor_GM_GM9PRO_sprout" revision="refs/heads/lineage-23.2" remote="github" />
 </manifest>
